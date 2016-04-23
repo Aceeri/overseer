@@ -1,0 +1,4 @@
+"none": c(0, 0, 0, 0); // 0, color(r, g, b, a)
+"tree": c(231, 152, 182, 255); // 1
+"grass": c(151, 215, 131, 255); // 2
+"fence": m("fence.obj"); // 3, mesh(path)
